@@ -1,0 +1,13 @@
+# config/hardware.py
+
+# --- Stage (COM4) ---
+SERIAL_PORT_STAGE = "COM4"
+BAUDRATE_STAGE = 115200
+
+# --- Injector (COM7) ---
+SERIAL_PORT_INJECT = "COM7"
+BAUDRATE_INJECT = 115200
+
+# --- Injection speeds ---
+SLOW_APPROACH_SPEED = 250.0
+DEFAULT_MANUAL_SPEED = 120
