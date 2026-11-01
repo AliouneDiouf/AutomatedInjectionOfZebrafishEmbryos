@@ -1,4 +1,4 @@
-<h1 align="center">Automated Microinjection of Zebrafish Embryos</h1>
+<h1 align="center">Automated Microinjection of Zebrafish Embryos V1</h1>
 
 <p align="center">
   Vision-guided robotic platform that locates zebrafish embryos, aligns a glass
