@@ -1,0 +1,12 @@
+# Core
+numpy>=1.24
+opencv-python>=4.8
+PyQt5>=5.15
+pyserial>=3.5
+
+# Vision / deep learning
+ultralytics>=8.1
+torch>=2.1
+
+# Basler camera SDK (requires the pylon runtime installed separately)
+pypylon>=3.0

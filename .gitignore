@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Project outputs and local assets
+recordings/
+models/*.pt
+profiles/*.csv
+*.avi
+*.mp4
+*.log
